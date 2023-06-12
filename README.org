@@ -1,0 +1,10 @@
+* evol
+
+Replacement for make
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/e-user/evol.git   |
+| commit  | d84a23d  |
+| systems | evol |
+|---------+-------------------------------------------|
+
