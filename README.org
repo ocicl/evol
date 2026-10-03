@@ -2,10 +2,10 @@
 
 Replacement for make
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/e-user/evol.git   |
-| commit  | d84a23d  |
-| systems | evol |
-|---------+-------------------------------------------|
+|---------+------------------------------------------|
+| source  | git:https://github.com/outergod/evol.git |
+| commit  | d84a23d                                  |
+| systems | evol                                     |
+|---------+------------------------------------------|
 
   
